@@ -1,3 +1,16 @@
+var number = 1 
+function takeANumber () {
+  katzDeLine.push(number)
+  number++ 
+  return "Return" + number
+}
+
+
+
+
+
+
+
 function takeANumber (katzDeliLine, name){
   var position = katzDeliLine.length+1
   katzDeliLine.push(name)
